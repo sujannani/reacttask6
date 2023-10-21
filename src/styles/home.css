@@ -1,0 +1,46 @@
+.services:hover {
+  box-shadow: 0 8px 8px rgba(0, 0, 0, 0.4);
+  background-color:#198754;/* You can adjust the shadow values */
+  color:white;
+  transition: background-color 0.4s ease;
+  margin: top 30px;
+  transform: scale(1.1);
+}
+
+.services:hover img{
+  filter: brightness(0) invert(1);
+}
+
+.services:hover #id{
+  background-color: white;
+}
+
+.card:hover svg {
+    fill: white !important; /* Change this to the desired hover color */
+}
+
+.java{
+    background:linear-gradient(to right, #198754 70%, #dad7d7 30%) !important;
+}
+
+.python{
+  background:linear-gradient(to right, #198754 75%, #dad7d7 25%) !important;
+}
+
+.flutter{
+  background:linear-gradient(to right, #198754 50%, #dad7d7 50%) !important;
+}
+
+.web{
+  background:linear-gradient(to right, #198754 60%, #dad7d7 40%) !important;
+}
+
+.sql{
+  background:linear-gradient(to right, #198754 50%, #dad7d7 50%) !important;
+}
+
+.react{
+  background:linear-gradient(to right, #198754 50%, #dad7d7 50%) !important;
+}
+
+/* #198754 */
