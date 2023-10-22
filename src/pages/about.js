@@ -16,7 +16,7 @@ export function About(){
                 <p>Eager to advance my knowledge, I'm actively seeking opportunities to contribute my skills to innovative projects and continue evolving in the ever-evolving tech landscape.</p>
             </div>
             <div class='row'>
-                <button className='btn bg-success text-light col-lg-2 col-sm-3 col-3 mx-3'>Hire Me</button>
+                <button className='btn bg-success text-light col-lg-2 col-sm-3 col-3 mx-3' onClick={()=>{window.open('https://www.linkedin.com/in/sujan-kommalapati-aaa250227/')}}>Hire Me</button>
                 <button className='btn border-success text-success border-3 col-lg-2 col-sm-3 col-3 mx-3' onClick={()=>{window.open('https://docs.google.com/document/d/1zlvHcFkp9GEImm_I_VAprmaOwnLt8ovK/edit?usp=sharing&ouid=104923872672109735445&rtpof=true&sd=true', '_blank');}}>Resume</button>
             </div>
         </div>

@@ -7,7 +7,7 @@ export function Projects(){
     return(
         <div id='projects' class="justify-content-center align-items-center text-center row py-4 mx-5">
                 <h2 class="text-center">Projects</h2>
-                <p class='col-lg-6 col-md-8 col-sm-10'>Our team members are experts in all facets of the design industry including: print design, illustration, branding, identity and more.</p>
+                <p class='col-lg-6 col-md-8 col-sm-10'>My recent projects in Ui, Flutter and React</p>
                 <div class='row justify-content-center'>
                     <div class='col-lg-3 col-md-6 col-sm-8 card m-lg-5 m-md-3 my-sm-2 p-3 m-3 align-items-center services text-lg-start'>
                         <img src={service1} class="card-image-top img-fluid col-6 mb-3"/>
