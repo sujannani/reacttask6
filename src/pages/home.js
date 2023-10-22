@@ -20,8 +20,7 @@ export function Home(){
                    <span style={{width:'10px'}}></span>
                    <div class="bg-success rounded" style={{height:'10px',width:'10px'}}></div>
                 </div>
-                <p class='col-lg-6 col-md-10 col-sm-12'>Since creative designers often interact with creative teams, 
-                    managers and clients, they need strong communication skills.</p>
+                <p class='col-lg-7 col-md-10 col-sm-12'>AI/ML student at VIT, familiar with Flutter, web development, and UI design. Enthusiastic about learning and solving tech challenges.</p>
                 <div class="d-flex flex-row justify-content-around col-lg-4 col-sm-10">
                     <a href="https://github.com/sujannani" target='_blank'><img src={github}/></a>
                     <a href="https://www.instagram.com/_sujan12_/" target='_blank'><img src={instagram}/></a>
